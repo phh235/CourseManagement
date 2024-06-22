@@ -12,9 +12,9 @@
 &nbsp;
 </div>
 <h2 align="center">🌱 Thành viên trong nhóm:</h2>
-<div align="center"><p>Phan Huy Hoàng (Leader bình phong)</p> 
-<p>Dư Trọng Nhân (Leader ẩn)</p> 
-<p>Nguyễn Thị Trà My</p>
-<p>Nguyễn Thị Thuỳ Linh</p>
-<p>Nguyễn Tấn Tài</p>
+<div align="center"><p>Phan Huy Hoàng - PS30236</p> 
+<p>Dư Trọng Nhân - PS36231</p> 
+<p>Nguyễn Thị Trà My - PS32129</p>
+<p>Nguyễn Thị Thuỳ Linh - PS34118</p>
+<p>Nguyễn Tấn Tài - PS31612</p>
 </div>
